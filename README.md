@@ -1,0 +1,1 @@
+# Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa
