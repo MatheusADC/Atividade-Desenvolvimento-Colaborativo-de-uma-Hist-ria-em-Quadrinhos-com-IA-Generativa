@@ -24,13 +24,13 @@ Um cientista sênior está absorto em seu projeto de máquina do tempo de bancad
 
 ### Frame Dois
 ```
-O cientista é teletransportado pra cidade em que ele está milhares de anos no futuro.
+Repentinamente, o cientista é teletransportado pra cidade em que ele está milhares de anos no futuro.
 Como plano de fundo está a cidade "tomada" pela natureza com a ausência da espécie humana.
 ```
 ![Frame Dois](https://raw.githubusercontent.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/refs/heads/main/FrameDois.webp)
 ### Frame Três
 ```
-Após andar muito, o cientista encontra um deserto e ao olha para cima se depara com uma aeronave.
+Após andar muito, o cientista encontra um deserto e ao olhar para cima se depara com uma aeronave.
 ```
 ![Frame Três](https://github.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/blob/main/FrameTres.jpg)
 ## Product Backlog
