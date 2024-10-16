@@ -39,3 +39,6 @@ Após andar muito, o cientista encontra um deserto e ao olha para cima se depara
 ![Frame Três](https://github.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/blob/main/FrameTres.jpg)
 ## Product Backlog
 [Clique aqui](https://github.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/issues/1)
+
+## KanBan
+[Clique aqui](https://trello.com/invite/b/670f0dee418c2e20f87cb061/ATTI362516a3c1d4ec829bec896360e1656e45FB8C72/atividade-ia-generativa)
