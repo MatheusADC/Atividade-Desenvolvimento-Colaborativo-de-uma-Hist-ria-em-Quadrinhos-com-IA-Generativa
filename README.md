@@ -5,15 +5,11 @@
 Matheus Amaral da Costa
 ```
 ## Descrição do projeto
-```
-A história em quadrinhos exibe um cientista sênior produzindo uma máquina do tempo dentro do seu laboratório.
-Após conseguir montar esse artefato, o estudioso é transportado para a mesma localidade em que está anos no futuro.
-
-Ele percebe que a natureza se instalou totalmente entre os arranha-céus com a ausência da presença humana.
-
-Após peregrinar por muito tempo o cientista chega a um deserto e, ao olhar para as nuvens avista uma aeronave
+>A história em quadrinhos exibe um cientista sênior produzindo uma máquina do tempo dentro do seu laboratório.
+>Após conseguir montar esse artefato, o estudioso é transportado para a mesma localidade em que está anos no futuro. Ele percebe que a natureza se instalou totalmente entre os arranha-céus com a ausência da presença humana.
+>Depois de peregrinar por muito tempo o cientista chega a um deserto e, ao olhar para as nuvens avista uma aeronave
 e se pergunta se são seres extraterrestres ou a descendência da humanidade.
-```
+
 ## Objetivo
 ```
 Criar um história em quadrinhos com mais de 3 quadros a partir da IA Generativa DALL-E e do site NightCafe Creator.
