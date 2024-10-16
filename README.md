@@ -1,4 +1,4 @@
-# Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa
+# Atividade - Desenvolvimento Colaborativo de uma História em Quadrinhos com IA Generativa
 
 ## Integrante
 ```
