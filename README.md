@@ -33,3 +33,5 @@ Como plano de fundo está a cidade "tomada" pela natureza com a ausência da esp
 ```
 Após andar muito, o cientista encontra um deserto e ao olha para cima se depara com uma aeronave.
 ```
+## Product Backlog
+[Clique aqui](https://github.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/issues/1)
