@@ -16,7 +16,7 @@ e se pergunta se são seres extraterrestres ou a descendência da humanidade.
 ```
 ## Objetivo
 ```
-Criar um história em quadrinhos com 3 quadros a partir da IA Generativa DALL-E e do site NightCafe Creator.
+Criar um história em quadrinhos com mais de 3 quadros a partir da IA Generativa DALL-E e do site NightCafe Creator.
 ```
 
 ## Estrutura
@@ -24,14 +24,18 @@ Criar um história em quadrinhos com 3 quadros a partir da IA Generativa DALL-E 
 ```
 Um cientista sênior está absorto em seu projeto de máquina do tempo de bancada.
 ```
+![Frame Um](https://raw.githubusercontent.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/refs/heads/main/FrameUm.webp)
+
 ### Frame Dois
 ```
 O cientista é teletransportado pra cidade em que ele está milhares de anos no futuro.
 Como plano de fundo está a cidade "tomada" pela natureza com a ausência da espécie humana.
 ```
+![Frame Dois](https://raw.githubusercontent.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/refs/heads/main/FrameDois.webp)
 ### Frame Três
 ```
 Após andar muito, o cientista encontra um deserto e ao olha para cima se depara com uma aeronave.
 ```
+![Frame Três](https://github.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/blob/main/FrameTres.jpg)
 ## Product Backlog
 [Clique aqui](https://github.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/issues/1)
