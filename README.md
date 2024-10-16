@@ -24,7 +24,7 @@ Um cientista sênior está absorto em seu projeto de máquina do tempo de bancad
 
 ### Frame Dois
 ```
-Repentinamente, o cientista é teletransportado pra cidade em que ele está milhares de anos no futuro.
+Repentinamente, o cientista é teletransportado para a cidade em que ele está milhares de anos no futuro.
 Como plano de fundo está a cidade "tomada" pela natureza com a ausência da espécie humana.
 ```
 ![Frame Dois](https://raw.githubusercontent.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/refs/heads/main/FrameDois.webp)
