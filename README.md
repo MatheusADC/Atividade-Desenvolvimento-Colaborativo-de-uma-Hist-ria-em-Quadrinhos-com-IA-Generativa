@@ -36,7 +36,7 @@ Após andar muito, o cientista encontra um deserto e ao olha para cima se depara
 ## Product Backlog
 [Clique aqui](https://github.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/issues/1)
 
-## Sprint Backloh
+## Sprint Backlog
 [Semana 1](https://github.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/issues/2)
 
 ## KanBan
