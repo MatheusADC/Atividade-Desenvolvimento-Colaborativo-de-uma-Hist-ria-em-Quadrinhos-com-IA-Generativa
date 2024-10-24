@@ -33,6 +33,24 @@ Como plano de fundo está a cidade "tomada" pela natureza com a ausência da esp
 Após andar muito, o cientista encontra um deserto e ao olhar para cima se depara com uma aeronave.
 ```
 ![Frame Três](https://github.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/blob/main/FrameTres.jpg)
+
+```
+O cientista consegue entrar dentro da nave e se depara com seres humanoides. O primeiro contato assusta o cientista que sai correndo.
+```
+![Frame Quatro](https://raw.githubusercontent.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/refs/heads/main/FrameQuatro.webp)
+
+```
+Uma IA se manifesta e começa a dialogar com o cientista no meio da confusão.
+Diálogo:
+
+IA: "Pare. Não há perigo. Eles não são hostis."
+Cientista (assustado, sem saber de onde vem a voz): "Quem está falando? O que está acontecendo aqui?!"
+IA: "Eu sou o Guardião do Conhecimento. O que você vê são descendentes da sua espécie. Você não está entre alienígenas, mas entre os futuros humanos."
+Cientista (confuso e ofegante): "Futuros humanos? Isso é impossível!"
+IA: "Você foi transportado um milhão de anos no futuro. A humanidade evoluiu para sobreviver em um novo ambiente. Eu tenho as respostas que procura, mas você deve confiar em mim."
+```
+![Frame Cinco](https://raw.githubusercontent.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/refs/heads/main/FrameCinco.webp)
+
 ## Product Backlog
 [Clique aqui](https://github.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/issues/1)
 
