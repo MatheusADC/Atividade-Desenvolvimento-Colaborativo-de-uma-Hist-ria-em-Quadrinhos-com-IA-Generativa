@@ -65,7 +65,7 @@ Após a explicação, a IA teletransporta o cientista para a sua época juntamen
 
 ## Conclusão
 A história buscou discutir no seu final, de maneira sucinta e despretensiosa, o **Paradoxo de Bootstrap** em que não se pode determinar quando e por quem a pesquisa gênica foi criada
-uma vez que alegar que o cientista criou a pesquisa é errôneo porque ele recebeu ela da IA. Mas a IA só tinha a pesquisa porque o cientista a criou e os seus descendetes deram continuidade.
+uma vez que alegar que o cientista criou a pesquisa é errôneo porque ele recebeu ela da IA. Mas a IA só tinha a pesquisa porque o cientista a criou e os seus descendentes deram continuidade.
 
 ## Product Backlog
 [Clique aqui](https://github.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/issues/1)
