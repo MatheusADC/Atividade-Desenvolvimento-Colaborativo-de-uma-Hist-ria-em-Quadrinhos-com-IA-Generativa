@@ -51,6 +51,22 @@ IA: "Você foi transportado um milhão de anos no futuro. A humanidade evoluiu p
 ```
 ![Frame Cinco](https://raw.githubusercontent.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/refs/heads/main/FrameCinco.webp)
 
+```
+A IA explica ao cientista que foram as pesquisas dele e a continuação pelos seus descendentes que contribuíram para a mudança do fenótipo humano, devido à necessidade de alteração por
+mudanças climáticas.
+A IA exibe a pesquisa para o cientista.
+```
+![Frame Seis](https://raw.githubusercontent.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/refs/heads/main/Fame6.webp)
+
+```
+Após a explicação, a IA teletransporta o cientista para a sua época juntamente com a pesquisa sobre alteração gênica.
+```
+![Frame Sete](https://raw.githubusercontent.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/refs/heads/main/Frame7.webp)
+
+## Conclusão
+A história buscou discutir no seu final, de maneira sucinta e despretensiosa, o **Paradoxo de Bootstrap** em que não se pode determinar quando e por quem a pesquisa gênica foi criada
+uma vez que alegar que o cientista criou a pesquisa é errôneo porque ele recebeu ela da IA. Mas a IA só tinha a pesquisa porque o cientista a criou e os seus descendetes deram continuidade.
+
 ## Product Backlog
 [Clique aqui](https://github.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/issues/1)
 
