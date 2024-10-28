@@ -73,6 +73,10 @@ uma vez que alegar que o cientista criou a pesquisa é errôneo porque ele receb
 ## Sprint Backlog
 [Semana 1](https://github.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/issues/2)
 
+[Semana 2](https://github.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/issues/3)
+
+[Semana 3](https://github.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/issues/4)
+
 ## KanBan
 [Clique aqui](https://trello.com/invite/b/670f0dee418c2e20f87cb061/ATTI362516a3c1d4ec829bec896360e1656e45FB8C72/atividade-ia-generativa)
 
