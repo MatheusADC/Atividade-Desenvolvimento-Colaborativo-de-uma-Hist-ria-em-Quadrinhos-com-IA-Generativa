@@ -1,21 +1,21 @@
 # Atividade - Desenvolvimento Colaborativo de uma História em Quadrinhos com IA Generativa
 
-## Integrante
+# Integrante
 ```
 Matheus Amaral da Costa
 ```
-## Descrição do projeto
+# <img src="https://github.com/user-attachments/assets/caabfdf0-0f9e-44a3-8200-c6579fe87887" alt="ícone descrição" width="28"> Descrição do projeto
 >A história em quadrinhos exibe um cientista sênior produzindo uma máquina do tempo dentro do seu laboratório.
 >Após conseguir montar esse artefato, o estudioso é transportado para a mesma localidade em que está anos no futuro. Ele percebe que a natureza se instalou totalmente entre os arranha-céus com a ausência da presença humana.
 >Depois de peregrinar por muito tempo o cientista chega a um deserto e, ao olhar para as nuvens avista uma aeronave
 e se pergunta se são seres extraterrestres ou a descendência da humanidade.
 
-## Objetivo
+# <img src="https://github.com/user-attachments/assets/b1486dc8-99eb-453c-93a3-0775a4797bfe" alt="ícone de alvo" width="28"> Objetivo
 ```
 Criar um história em quadrinhos com mais de 3 quadros a partir da IA Generativa DALL-E e do site NightCafe Creator.
 ```
 
-## Estrutura
+# <img src="https://github.com/user-attachments/assets/a49683b7-ebb7-4542-8307-20bdc8f5faff" alt="ícone do estrutura" width="28"> Estrutura
 ### Frame Um
 ```
 Um cientista sênior está absorto em seu projeto de máquina do tempo de bancada.
@@ -63,14 +63,14 @@ Após a explicação, a IA teletransporta o cientista para a sua época juntamen
 ```
 ![Frame Sete](https://raw.githubusercontent.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/refs/heads/main/Frame7.webp)
 
-## Conclusão
+# <img src="https://github.com/user-attachments/assets/7fe83df9-3d1b-4476-abc9-4966d7be62c7" alt="ícone de conclusão" width="28"> Conclusão
 A história buscou discutir no seu final, de maneira sucinta e despretensiosa, o **Paradoxo de Bootstrap** em que não se pode determinar quando e por quem a pesquisa gênica foi criada
 uma vez que alegar que o cientista criou a pesquisa é errôneo porque ele recebeu ela da IA. Mas a IA só tinha a pesquisa porque o cientista a criou e os seus descendentes deram continuidade.
 
-## Product Backlog
+# <img src="https://github.com/user-attachments/assets/54dc8c98-da89-41ac-b797-d429a91b8fc7" alt="ícone do product backlog" width="28"> Product Backlog
 [Clique aqui](https://github.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/issues/1)
 
-## Sprint Backlog
+# <img src="https://github.com/user-attachments/assets/99461808-1a59-4ee6-9612-f9e92b37090e" alt="ícone do sprint backlog" width="28"> Sprint Backlog
 [Semana 1](https://github.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/issues/2)
 
 [Semana 2](https://github.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/issues/3)
@@ -79,7 +79,7 @@ uma vez que alegar que o cientista criou a pesquisa é errôneo porque ele receb
 
 [Semana 4](https://github.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/issues/5)
 
-## KanBan
+# <img src="https://github.com/user-attachments/assets/2c272fe4-dca6-4b83-bb7a-c6e7d9a130f3" alt="ícone do Kanban" width="28"> KanBan
 [Clique aqui](https://trello.com/invite/b/670f0dee418c2e20f87cb061/ATTI362516a3c1d4ec829bec896360e1656e45FB8C72/atividade-ia-generativa)
 
 ![Kanban - Trello](https://github.com/MatheusADC/Atividade-Desenvolvimento-Colaborativo-de-uma-Hist-ria-em-Quadrinhos-com-IA-Generativa/blob/main/Kanban.png)
